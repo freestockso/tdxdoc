@@ -4,6 +4,9 @@
 https://github.com/electkismet/eltdx
 
 
+https://github.com/freestockso/opentdx/blob/main/README.md
+
+
 
 ## Tdx quant
 
