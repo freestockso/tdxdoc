@@ -15,4 +15,8 @@ https://github.com/QuantJia/pytdx2
 - opentdx
 
 https://github.com/tbmilk/opentdx
+
+TdxClient 使用指南: https://github.com/tbmilk/opentdx/blob/main/doc/tdxclient_guide.md
+
+opentdx底层 Client高级开发指南:https://github.com/tbmilk/opentdx/blob/main/doc/advanced_client_guide.md
   
