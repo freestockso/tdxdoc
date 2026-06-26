@@ -11,3 +11,8 @@
 - pytdx2
   
 https://github.com/QuantJia/pytdx2
+
+- opentdx
+
+https://github.com/tbmilk/opentdx
+  
